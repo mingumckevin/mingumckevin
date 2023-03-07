@@ -1,4 +1,15 @@
 ### Welcome to my temp introduction page
+------------------------------------------
+
+Currently Working on C \
+Testing code
+
+Adding more information/updating this file soon\
+⚡ Fun fact: :)
+
+
+
+
 <!--
 **mingumckevin/mingumckevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
