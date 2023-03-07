@@ -1,5 +1,4 @@
-### Testing Testing 123 123
-
+### Welcome to my temp introduction page
 <!--
 **mingumckevin/mingumckevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
