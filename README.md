@@ -1,11 +1,35 @@
-### Welcome to my temp introduction page
+### Profile
 ------------------------------------------
+I am a third-year student focusing on embedded systems with an interest in cybersecurity.
 
-Currently Working on C \
-Testing code
+Mainly practising with C 
 
-Adding more information/updating this file soon\
-⚡ Fun fact: :)
+Learning C++ and C#
+
+\
+Currently working on three projects:
+
+\
+First Project relates to hardware
+
+Requirements:
+
+\
+Second Project focuses on software
+
+Requirements:
+- Must have a GUI
+
+\
+Third project is focused in cybersecurity
+
+Requirements:
+
+
+Adding more information/updating this file soon
+
+
+
 
 
 
