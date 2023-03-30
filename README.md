@@ -7,7 +7,7 @@ Mainly practising with C
 Learning C++ and C#
 
 \
-Currently working on three projects:
+Currently planning to do three projects:
 
 \
 First Project relates to hardware
