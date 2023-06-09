@@ -1,6 +1,6 @@
 ### Profile
 ------------------------------------------
-I am a third-year student focusing on embedded systems with an interest in cybersecurity.
+I am a third-year student focusing on embedded systems.
 
 Mainly practising with C 
 
@@ -23,13 +23,14 @@ Requirements:
 \
 Third project is focused in cybersecurity
 
-Requirements:
+Requirements: WIP
 
 
 Adding more information/updating this file soon
 
 
-
+----
+Interests: Cybersecurity
 
 
 
