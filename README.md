@@ -4,26 +4,6 @@ I am in my final year focusing on embedded systems.
 
 Mainly practising with C 
 
-\
-Currently planning to do three projects:
-
-\
-The First Project relates to hardware
-
-Requirements:
-
-\
-The second Project focuses on software
-
-Requirements:
-- Must have a GUI
-
-\
-The third project is focused on cybersecurity
-
-Requirements: WIP
-
-
 Adding more information/updating this file soon
 
 
