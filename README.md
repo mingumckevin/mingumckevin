@@ -1,6 +1,6 @@
 ### Profile
 ------------------------------------------
-I am a third-year student focusing on embedded systems.
+I am in my final year with an interest in embedded systems and electrical
 
 Mainly practising with C 
 
