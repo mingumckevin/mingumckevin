@@ -1,27 +1,25 @@
 ### Profile
 ------------------------------------------
-I am in my final year with an interest in embedded systems and electrical
+I am in my final year focusing on embedded systems.
 
 Mainly practising with C 
-
-Learning C++ and C#
 
 \
 Currently planning to do three projects:
 
 \
-First Project relates to hardware
+The First Project relates to hardware
 
 Requirements:
 
 \
-Second Project focuses on software
+The second Project focuses on software
 
 Requirements:
 - Must have a GUI
 
 \
-Third project is focused in cybersecurity
+The third project is focused on cybersecurity
 
 Requirements: WIP
 
@@ -30,7 +28,7 @@ Adding more information/updating this file soon
 
 
 ----
-Interests: Cybersecurity
+Other Interests: Cybersecurity, Control systems, Electronics, Sports, Electrical
 
 
 
