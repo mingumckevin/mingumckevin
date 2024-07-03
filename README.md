@@ -4,6 +4,9 @@ I am in my final year focusing on embedded systems.
 
 Mainly practising with C 
 
+Working on:
+Breaking ASUS Router
+
 Adding more information/updating this file soon
 
 
