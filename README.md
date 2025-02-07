@@ -1,11 +1,11 @@
 ### Profile
 ------------------------------------------
-I am in my final year focusing on embedded systems.
+Hi there!
 
-Mainly practising with C 
+I am an upcoming graduate working towards the embedded and cybersecurity field. 
 
 Working on:
-Breaking ASUS Router
+Breaking an ASUS Router
 
 Adding more information/updating this file soon
 
