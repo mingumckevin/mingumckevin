@@ -5,7 +5,7 @@ Hi there!
 I am an upcoming graduate working towards the embedded and cybersecurity field. 
 
 Working on:
-Breaking an ASUS Router
+C
 
 Adding more information/updating this file soon
 
