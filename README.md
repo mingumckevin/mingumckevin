@@ -2,7 +2,7 @@
 ------------------------------------------
 Hi there!
 
-I am an upcoming graduate working towards the embedded and cybersecurity field. 
+I put codes, documentation and pictures of my personal builds, sort of like my virtual workbench. Building things out of nothing is something I have a keen for and if you watch this space, there will be some interesting projects popping up soon...
 
 Working on:
 C
@@ -11,7 +11,7 @@ Adding more information/updating this file soon
 
 
 ----
-Other Interests: Cybersecurity, Control systems, Electronics, Sports, Electrical
+Other Interests: Cybersecurity, Control systems, Electronics, Sports
 
 
 
